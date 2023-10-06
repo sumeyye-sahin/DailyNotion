@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "970862684662",
+    "project_id": "dailynotion-1bed7",
+    "storage_bucket": "dailynotion-1bed7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970862684662:android:f50a63a7605a1b34277fd7",
+        "android_client_info": {
+          "package_name": "com.sumeyyesahin.dailynotion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMNGbStq5rXmI3mgYODVXOAaP7iSopN5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
